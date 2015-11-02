@@ -55,9 +55,9 @@ return [
 		'mysql' => [
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'l5',
-			'username'  => 'root',
-			'password'  => 'CyMas404',
+			'database'  => 'laravel5',
+			'username'  => 'dyo',
+			'password'  => 'dyo1234',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
